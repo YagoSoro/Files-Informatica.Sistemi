@@ -1,0 +1,8 @@
+c:\users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\obj\x86\Debug\ConvertitoreCF.Form1.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\obj\x86\Debug\ConvertitoreCF.Properties.Resources.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\obj\x86\Debug\ConvertitoreCF.csproj.GenerateResource.Cache
+C:\Users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\bin\Debug\ConvertitoreCF.exe
+C:\Users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\bin\Debug\ConvertitoreCF.pdb
+C:\Users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\obj\x86\Debug\ConvertitoreCF.csprojResolveAssemblyReference.cache
+C:\Users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\obj\x86\Debug\ConvertitoreCF.exe
+C:\Users\yago.soro\documents\visual studio 2010\Projects\ConvertitoreCF\obj\x86\Debug\ConvertitoreCF.pdb

@@ -1,0 +1,8 @@
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\bin\Debug\Test_Form1.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\bin\Debug\Test_Form1.pdb
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\obj\x86\Debug\Test_Form1.FormMain.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\obj\x86\Debug\Test_Form1.Properties.Resources.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\obj\x86\Debug\Test_Form1.csproj.GenerateResource.Cache
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\obj\x86\Debug\Test_Form1.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\obj\x86\Debug\Test_Form1.pdb
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_Form1\Test_Form1\obj\x86\Debug\Test_Form1.FormDati.resources

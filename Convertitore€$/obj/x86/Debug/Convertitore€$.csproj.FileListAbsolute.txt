@@ -1,0 +1,7 @@
+c:\users\yago.soro\documents\visual studio 2010\Projects\Convertitore€$\bin\Debug\Convertitore€$.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\Convertitore€$\bin\Debug\Convertitore€$.pdb
+c:\users\yago.soro\documents\visual studio 2010\Projects\Convertitore€$\obj\x86\Debug\Convertitore__.Form1.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\Convertitore€$\obj\x86\Debug\Convertitore__.Properties.Resources.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\Convertitore€$\obj\x86\Debug\Convertitore€$.csproj.GenerateResource.Cache
+c:\users\yago.soro\documents\visual studio 2010\Projects\Convertitore€$\obj\x86\Debug\Convertitore€$.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\Convertitore€$\obj\x86\Debug\Convertitore€$.pdb

@@ -1,0 +1,5 @@
+c:\users\yago.soro\documents\visual studio 2010\Projects\test_compito\test_compito\bin\Debug\test_compito.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\test_compito\test_compito\bin\Debug\test_compito.pdb
+c:\users\yago.soro\documents\visual studio 2010\Projects\test_compito\test_compito\obj\x86\Debug\test_compito.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\test_compito\test_compito\obj\x86\Debug\test_compito.pdb
+C:\Users\yago.soro\Documents\Visual Studio 2010\Projects\test_compito\test_compito\obj\x86\Debug\test_compito.csprojResolveAssemblyReference.cache

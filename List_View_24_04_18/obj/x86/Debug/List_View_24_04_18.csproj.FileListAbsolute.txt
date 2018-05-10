@@ -1,0 +1,8 @@
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\bin\Debug\List_View_24_04_18.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\bin\Debug\List_View_24_04_18.pdb
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\obj\x86\Debug\List_View_24_04_18.FormMain.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\obj\x86\Debug\List_View_24_04_18.Properties.Resources.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\obj\x86\Debug\List_View_24_04_18.csproj.GenerateResource.Cache
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\obj\x86\Debug\List_View_24_04_18.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\obj\x86\Debug\List_View_24_04_18.pdb
+c:\users\yago.soro\documents\visual studio 2010\Projects\List_View_24_04_18\obj\x86\Debug\List_View_24_04_18.FormAgg.resources

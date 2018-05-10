@@ -1,0 +1,10 @@
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.FormMain.resources
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.Properties.Resources.resources
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.csproj.GenerateResource.Cache
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\bin\Debug\GiornataCamp.exe
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\bin\Debug\GiornataCamp.pdb
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.exe
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.pdb
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.FormAgg.resources
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.csprojResolveAssemblyReference.cache
+C:\Users\yago.soro\documents\visual studio 2010\Projects\GiornataCamp\obj\x86\Debug\GiornataCamp.FormMod.resources

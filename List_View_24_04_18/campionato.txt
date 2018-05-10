@@ -1,0 +1,10 @@
+﻿1	Juventus Napoli	0	1
+2	Milan	Benevento	0	1
+3	Spal	Roma	0	3
+4	Udinese	Crotone	1	2
+5	Cagliari	Bologna	0	0
+6	Sassuolo	Fiorentina	1	0
+7	Genoa	Verona	2	1
+8	Chievo	Inter	1	2
+9	Lazio	Sampdoria	4	0
+10	Atalanta	Torino	2	1

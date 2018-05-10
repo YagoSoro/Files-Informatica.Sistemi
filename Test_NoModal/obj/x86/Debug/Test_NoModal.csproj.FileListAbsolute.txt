@@ -1,0 +1,8 @@
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\bin\Debug\Test_NoModal.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\bin\Debug\Test_NoModal.pdb
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\obj\x86\Debug\Test_Form1.FormDati.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\obj\x86\Debug\Test_Form1.FormMain.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\obj\x86\Debug\Test_NoModal.Properties.Resources.resources
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\obj\x86\Debug\Test_NoModal.csproj.GenerateResource.Cache
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\obj\x86\Debug\Test_NoModal.exe
+c:\users\yago.soro\documents\visual studio 2010\Projects\Test_NoModal\obj\x86\Debug\Test_NoModal.pdb
